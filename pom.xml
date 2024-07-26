@@ -127,9 +127,5 @@
             <url>http://52.66.237.196:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
-	<repository>
-            <id>maven-releases</id>
-            <url>http://52.66.237.196:8081/repository/Boardgameapp-repo/</url>
-        </repository>
 
 </project>

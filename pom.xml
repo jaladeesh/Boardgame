@@ -119,8 +119,8 @@
 
 	 <distributionManagement>
         <repository>
-            <id>maven-releases</id>
-            <url>http://3.110.222.125:8081/repository/maven-releases/</url>
+            <id>boardgame-artifact</id>
+            <url>http://3.110.222.125:8081/repository/boardgame-artifact/</url>
         </repository>
         <snapshotRepository>
             <id>maven-snapshots</id>
